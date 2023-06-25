@@ -19,6 +19,7 @@ date: 2023-06-25
 - Detail closer to coding language
 - Code, adding comments
 - Identify fail cases, design solutions and/or error messages
+  - Check for fail cases that might produce no output (null results)
 
 ### Script checks and reproducibility
 
@@ -28,4 +29,4 @@ date: 2023-06-25
 - What temporary output should be displayed? Perhaps progress or message at key points
 - Include an option to disable verbose output
 - Which parameters of the analysis should be saved to file?
-- Generate log file (main parameters, explanations, perhaps header of used input file)
+- Generate log file (date, main parameters, explanations, perhaps header of used input file)
