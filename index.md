@@ -1,5 +1,5 @@
 ---
-title: Keyboard Notes
+title: Keyboard-Notes
 ---
 
 ## Keyboard Notes
